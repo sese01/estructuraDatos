@@ -31,6 +31,7 @@ public class ejercicioDiez {
         //Mostramos el resultado
         mostrarArrays(nombres, notas, resultado);
  
+        
     }
  
     public static void rellenarArrays(double notas[], String nombres[]){

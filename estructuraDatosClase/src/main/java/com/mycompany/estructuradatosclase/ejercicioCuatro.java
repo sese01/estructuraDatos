@@ -12,7 +12,7 @@ public class ejercicioCuatro {
     public static void main(String[] args) {
          
         //Creo un array
-        int[] numeros=new int[100];
+        int[] numeros=new int[20];
          
         //Declaro las variables necesarias
         int suma=0;

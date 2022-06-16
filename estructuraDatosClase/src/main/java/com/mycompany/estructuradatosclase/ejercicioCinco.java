@@ -11,6 +11,8 @@ import java.util.Scanner;
  * @author sese4
  */
 public class ejercicioCinco {
+    
+ 
     public static void main(String[] args) {
  
         Scanner sc = new Scanner(System.in);
@@ -40,5 +42,6 @@ public class ejercicioCinco {
         System.out.println(cadena);
  
     }
+ 
     
 }
